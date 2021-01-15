@@ -15,7 +15,7 @@ run_inference_model.py 代码中上半部分是静态图使用， 下半部分�
 
 ```
 
-
+其中dummy_data 的树列表如下：
 ```
 ├── dummy_data
     │   ├── GroundTruth_trainval_png
@@ -32,7 +32,7 @@ run_inference_model.py 代码中上半部分是静态图使用， 下半部分�
 ```  
 
 <br>
-
+list.txt文件的路径
 ```
 list.txt:
     JPEGImages/2008_000002.jpg GroundTruth_trainval_png/2008_000002.png
