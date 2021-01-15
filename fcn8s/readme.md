@@ -37,7 +37,8 @@ python3 run_inference_model.py
 ```  
 
 <br>
-list.txt文件的路径
+list.txt文件的路径:
+
 ```
 list.txt:
     JPEGImages/2008_000002.jpg GroundTruth_trainval_png/2008_000002.png
