@@ -1,4 +1,4 @@
-## train fcn8s using pd
+## train fcn8s using paddlepaddle==1.8.4
 ```
 ├── dummy_data
     │   ├── GroundTruth_trainval_png
