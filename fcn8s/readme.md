@@ -13,6 +13,11 @@ conver_inference_model.py 用TracedLayer方法转成pd的inference model，从�
 run_inference_model.py 代码中上半部分是静态图使用， 下半部分是动态图使用。理论上来说静态图要好过动态图，
 但测试结果却是相反，具体原因不知道是不是说在c++的部署会好的意思。
 
+使用顺序为：
+python3 train_fcn.py
+python3 train_again.py(如需要)
+python3 conver_inference_model.py
+python3 run_inference_model.py
 ```
 
 其中dummy_data 的树列表如下：
