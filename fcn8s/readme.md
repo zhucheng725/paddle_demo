@@ -13,7 +13,9 @@
     │   │   └── ...
     │   └── list.txt
 ```  
+
 <br>
+
 ```
 list.txt:
     JPEGImages/2008_000002.jpg GroundTruth_trainval_png/2008_000002.png
